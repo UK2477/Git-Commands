@@ -1,0 +1,25 @@
+---- Push Commands ----
+-> git config --global user.email ""
+-> git config --global user.name ""
+-> git init
+-> git add -A
+-> git status (Not Compulsory)
+-> git commit -m "msg" (Snapshot)
+-> git remote add origin (Reponame)
+-> git push origin master
+
+
+---- Pull Commands ----
+-> git clone Reponame
+-> git (Folder Name)
+-> git pull origin master
+
+
+---- After Update Commands ----
+-> git add -A
+-> git commit -m "msg"
+-> git push origin master
+
+---- Account Remove Commands ----
+-> git config --global --unset user.name
+-> git config --global --unset user.email
