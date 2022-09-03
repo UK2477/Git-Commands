@@ -10,6 +10,7 @@
 
 
 ---- Pull Commands ----
+-> git init
 -> git clone Reponame
 -> git (Folder Name)
 -> git pull origin master
